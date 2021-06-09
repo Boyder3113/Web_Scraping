@@ -12,15 +12,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-If data was publicly available, how would you obtain it?
+Keeping up to date with Mars data!
 
-*  The project connects to Kaggle via API token using Python.  It downloads-and-unzips all files from the NHL Hockey source, which includes 13 CSVs and an ERD.
-*  Using pandas, the CSVs are loaded to dataframes.  These dataframes are prepared/transformed for their final migration to a PostgreSQL database.
-*  We SQL and pgAdmin to create the database schema.  This establishes the mini-warehouse for all hockey data from which analysis can be performed.
-*  The Jupyter Notebook uses pands to_sql(), as well as a custom function using execute_values() from psycopg2, to load the transformed dataframes to the appropriate PostgresSQL database tables.
-*  Queries analyzing the data have been written in SQL.
+*  This repository pulls Mars data from 4 seperate websites and consolodates the scaped data into one index.html file.
+*  There are two scraping files, the first is a jupyter notebook file that documents the scraping process, but it is not linked to the app.
+*  There is an index.html file, which provides a web template for the app to run through.
+*  Finally the app.py file creates a flask api environment that runs the index.html file and allows the user to scrape new Mars data at any time.
 
-Each dataframe load to SQL prints an execution time (modular) and a total process run time.
+## App Usage
+*  Run the app.py file in your termnial, flask will create a local host for index.html
+*  Click on the "Scrape New Mars Data" button to run the the "scrap_mars.py" file to get new Mars data at anytime!
 
 
 <!-- BUILT WITH -->
