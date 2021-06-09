@@ -26,9 +26,8 @@ Each dataframe load to SQL prints an execution time (modular) and a total proces
 <!-- BUILT WITH -->
 ## Built With
 
-* Jupyter Notebook
-* Kaggle
-* MS Word
-* pgAdmin
-* PostreSQL
 * Python
+* Pandas
+* Jupyter Notebook
+* MongoDB
+* Flask
