@@ -5,7 +5,7 @@ import datetime as dt
 
 
 def scrape_all():
-    browser = Browser("chrome", executable_path="chromedriver", headless=True)
+    browser = Browser("chrome", executable_path="D:/DU_GitLab/GitHub Repositories/Web_Scraping/app/chromedriver", headless=True)
 
     news_title, news_paragraph = mars_news(browser)
 
