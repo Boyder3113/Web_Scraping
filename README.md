@@ -4,8 +4,8 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <a href="#App Usage">App Usage</a></li>
-      <a href="#project-screenshots">Project Screenshots</a></li>
+      <li><a href="#App Usage">App Usage</a></li>
+      <li><a href="#project-screenshots">Project Screenshots</a></li>
     <li><a href="#built-with">Built With</a></li>
   </ol>
 </details>
