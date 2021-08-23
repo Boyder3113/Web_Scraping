@@ -5,6 +5,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <a href="#App Usage">App Usage</a></li>
+      <a href="#project-screenshots">Project Screenshots</a></li>
     <li><a href="#built-with">Built With</a></li>
   </ol>
 </details>
@@ -23,6 +24,17 @@ Keeping up to date with Mars data!
 ## App Usage
 *  Run the app.py file in your termnial, flask will create a local host for index.html
 *  Click on the "Scrape New Mars Data" button to run the the "scrap_mars.py" file to get new Mars data at anytime!
+
+<!-- Project Screenshots -->
+## Project Screenshots
+
+* Biodiversity Dashboard
+
+  ![image]()
+  
+  * Dropdown Menu
+
+  ![image]()
 
 
 <!-- BUILT WITH -->
