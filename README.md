@@ -28,13 +28,13 @@ Keeping up to date with Mars data!
 <!-- Project Screenshots -->
 ## Project Screenshots
 
-* Biodiversity Dashboard
+* Web Scraping Button and Mars Feature Image/Facts
 
-  ![image]()
+  ![image](https://github.com/Boyder3113/Web_Scraping/blob/main/Images/WebScraping1.PNG?raw=true)
   
-  * Dropdown Menu
+  * Mars Hemisphere Images
 
-  ![image]()
+  ![image](https://github.com/Boyder3113/Web_Scraping/blob/main/Images/WebScraping2.PNG?raw=true)
 
 
 <!-- BUILT WITH -->
